@@ -32,7 +32,4 @@ delete swaggyPointer;
 swaggyPointer=0 ;//This is compulsory, we set the pointed address to zero
 cout <<swaggyPointer<<endl;
 
-int const h(15);
-h++ ;
-
 }

@@ -162,3 +162,98 @@
 
 1468712374 c:\users\yassine\desktop\c++review\pointers.h
 
+1468703707 source:c:\users\yassine\c-review\arrays.cpp
+	"Arrays.h"
+	<iostream>
+
+1468701376 c:\users\yassine\c-review\arrays.h
+
+1468698457 source:c:\users\yassine\c-review\conditions.cpp
+	"Conditions.h"
+	<iostream>
+
+1468698415 c:\users\yassine\c-review\conditions.h
+
+1468696545 source:c:\users\yassine\c-review\defaultparameters.cpp
+	"numberSeconds.h"
+
+1468712279 source:c:\users\yassine\c-review\files.cpp
+	"Files.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1468707342 c:\users\yassine\c-review\files.h
+
+1468697828 source:c:\users\yassine\c-review\inputstream.cpp
+	"inputStream.h"
+	<iostream>
+	<string>
+
+1468697835 c:\users\yassine\c-review\inputstream.h
+
+1468698907 source:c:\users\yassine\c-review\loops.cpp
+	"Loops.h"
+	<iostream>
+
+1468698641 c:\users\yassine\c-review\loops.h
+
+1468698047 source:c:\users\yassine\c-review\simpleaddition.cpp
+	"SimpleAddition.h"
+	<iostream>
+
+1468698046 c:\users\yassine\c-review\simpleaddition.h
+
+1468707180 source:c:\users\yassine\c-review\strings.cpp
+	"Strings.h"
+	<iostream>
+	<string>
+
+1468703792 c:\users\yassine\c-review\strings.h
+
+1468698158 source:c:\users\yassine\c-review\variables.cpp
+	"variables.h"
+	<iostream>
+
+1468697392 c:\users\yassine\c-review\variables.h
+
+1468706711 source:c:\users\yassine\c-review\vectors.cpp
+	"Vectors.h"
+	<iostream>
+	<vector>
+
+1468703255 c:\users\yassine\c-review\vectors.h
+
+1468777655 source:c:\users\yassine\c-review\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"variables.h"
+	"inputStream.h"
+	"SimpleAddition.h"
+	"Conditions.h"
+	"DefaultParameters.h"
+	"Loops.h"
+	"Arrays.h"
+	"Vectors.h"
+	"Strings.h"
+	"Files.h"
+	"Pointers.h"
+	"TP.h"
+
+1468696666 c:\users\yassine\c-review\defaultparameters.h
+
+1468712374 c:\users\yassine\c-review\pointers.h
+
+1468777631 c:\users\yassine\c-review\tp.h
+
+1468777773 source:c:\users\yassine\c-review\pointers.cpp
+	"Pointers.h"
+	<iostream>
+
+1468779512 source:c:\users\yassine\c-review\tp.cpp
+	"TP.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+

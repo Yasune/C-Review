@@ -12,6 +12,7 @@
 #include "Strings.h"
 #include "Files.h"
 #include "Pointers.h"
+#include "TP.h"
 
 
 using namespace std;
@@ -71,7 +72,10 @@ int main()
 //Files();
 
 //Pointers
-pointers();
+//pointers();
+
+//TP
+tp();
 
      return 0 ;
 }
