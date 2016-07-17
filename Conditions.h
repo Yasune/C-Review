@@ -1,0 +1,6 @@
+#ifndef CONDITIONS_H_INCLUDED
+#define CONDITIONS_H_INCLUDED
+
+void conditions();
+
+#endif // CONDITIONS_H_INCLUDED

@@ -1,0 +1,6 @@
+#ifndef INPUTSTREAM_H_INCLUDED
+#define INPUTSTREAM_H_INCLUDED
+
+void inputStream();
+
+#endif // INPUTSTREAM_H_INCLUDED

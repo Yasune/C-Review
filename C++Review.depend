@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1468705552 source:c:\users\yassine\desktop\c++review\c++review\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"variables.h"
+	"inputStream.h"
+	"SimpleAddition.h"
+	"Conditions.h"
+	"DefaultParameters.h"
+	"Loops.h"
+	"Arrays.h"
+	"Vectors.h"
+	"Strings.h"
+
+1468694755 c:\users\yassine\desktop\c++review\c++review\hellodarkness.h
+
+1468695334 source:c:\users\yassine\desktop\c++review\c++review\hellodarkness.cpp
+	"HelloDarkness.h"
+	<iostream>
+
+1468696545 source:c:\users\yassine\desktop\c++review\c++review\numberseconds.cpp
+	"numberSeconds.h"
+
+1468696666 c:\users\yassine\desktop\c++review\c++review\numberseconds.h
+
+1468698158 source:c:\users\yassine\desktop\c++review\c++review\variables.cpp
+	"variables.h"
+	<iostream>
+
+1468697392 c:\users\yassine\desktop\c++review\c++review\variables.h
+
+1468697828 source:c:\users\yassine\desktop\c++review\c++review\inputstream.cpp
+	"inputStream.h"
+	<iostream>
+	<string>
+
+1468697835 c:\users\yassine\desktop\c++review\c++review\inputstream.h
+
+1468698047 source:c:\users\yassine\desktop\c++review\c++review\simpleaddition.cpp
+	"SimpleAddition.h"
+	<iostream>
+
+1468698046 c:\users\yassine\desktop\c++review\c++review\simpleaddition.h
+
+1468698457 source:c:\users\yassine\desktop\c++review\c++review\conditions.cpp
+	"Conditions.h"
+	<iostream>
+
+1468698415 c:\users\yassine\desktop\c++review\c++review\conditions.h
+
+1468698907 source:c:\users\yassine\desktop\c++review\c++review\loops.cpp
+	"Loops.h"
+	<iostream>
+
+1468698641 c:\users\yassine\desktop\c++review\c++review\loops.h
+
+1468703707 source:c:\users\yassine\desktop\c++review\c++review\arrays.cpp
+	"Arrays.h"
+	<iostream>
+
+1468701376 c:\users\yassine\desktop\c++review\c++review\arrays.h
+
+1468696666 c:\users\yassine\desktop\c++review\c++review\defaultparameters.h
+
+1468696545 source:c:\users\yassine\desktop\c++review\c++review\defaultparameters.cpp
+	"numberSeconds.h"
+
+1468703255 c:\users\yassine\desktop\c++review\c++review\vectors.h
+
+1468703792 c:\users\yassine\desktop\c++review\c++review\strings.h
+
+1468706711 source:c:\users\yassine\desktop\c++review\c++review\vectors.cpp
+	"Vectors.h"
+	<iostream>
+	<vector>
+
+1468706862 source:c:\users\yassine\desktop\c++review\c++review\strings.cpp
+	"Strings.h"
+	<iostream>
+	<string>
+
+1468703707 source:c:\users\yassine\desktop\c++review\arrays.cpp
+	"Arrays.h"
+	<iostream>
+
+1468701376 c:\users\yassine\desktop\c++review\arrays.h
+
+1468698457 source:c:\users\yassine\desktop\c++review\conditions.cpp
+	"Conditions.h"
+	<iostream>
+
+1468698415 c:\users\yassine\desktop\c++review\conditions.h
+
+1468696545 source:c:\users\yassine\desktop\c++review\defaultparameters.cpp
+	"numberSeconds.h"
+
+1468697828 source:c:\users\yassine\desktop\c++review\inputstream.cpp
+	"inputStream.h"
+	<iostream>
+	<string>
+
+1468697835 c:\users\yassine\desktop\c++review\inputstream.h
+
+1468698907 source:c:\users\yassine\desktop\c++review\loops.cpp
+	"Loops.h"
+	<iostream>
+
+1468698641 c:\users\yassine\desktop\c++review\loops.h
+
+1468698047 source:c:\users\yassine\desktop\c++review\simpleaddition.cpp
+	"SimpleAddition.h"
+	<iostream>
+
+1468698046 c:\users\yassine\desktop\c++review\simpleaddition.h
+
+1468707180 source:c:\users\yassine\desktop\c++review\strings.cpp
+	"Strings.h"
+	<iostream>
+	<string>
+
+1468703792 c:\users\yassine\desktop\c++review\strings.h
+
+1468698158 source:c:\users\yassine\desktop\c++review\variables.cpp
+	"variables.h"
+	<iostream>
+
+1468697392 c:\users\yassine\desktop\c++review\variables.h
+
+1468706711 source:c:\users\yassine\desktop\c++review\vectors.cpp
+	"Vectors.h"
+	<iostream>
+	<vector>
+
+1468703255 c:\users\yassine\desktop\c++review\vectors.h
+
+1468712488 source:c:\users\yassine\desktop\c++review\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"variables.h"
+	"inputStream.h"
+	"SimpleAddition.h"
+	"Conditions.h"
+	"DefaultParameters.h"
+	"Loops.h"
+	"Arrays.h"
+	"Vectors.h"
+	"Strings.h"
+	"Files.h"
+	"Pointers.h"
+
+1468696666 c:\users\yassine\desktop\c++review\defaultparameters.h
+
+1468707342 c:\users\yassine\desktop\c++review\files.h
+
+1468712279 source:c:\users\yassine\desktop\c++review\files.cpp
+	"Files.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1468712374 c:\users\yassine\desktop\c++review\pointers.h
+
